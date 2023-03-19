@@ -2,3 +2,23 @@
 AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
 Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man
+
+To-Do list:
+
+![01](https://img.shields.io/badge/Complete%20ToDo%20List-Complete-green)
+
+![0](https://img.shields.io/badge/Rethink%20Name-Incomplete-red)
+
+![1](https://img.shields.io/badge/Deploy%20Vosk-Incomplete-red)
+
+![2](https://img.shields.io/badge/Integrate%20Vosk-Incomplete-red)
+
+![3](https://img.shields.io/badge/Deploy%20Dalai-Incomplete-red)
+
+![4](https://img.shields.io/badge/Integrate%20Dalai-Incomplete-red)
+
+![5](https://img.shields.io/badge/Deploy%20Larynx2-Incomplete-red)
+
+![6](https://img.shields.io/badge/Integrate%20Larynx2-Incomplete-red)
+
+![6](https://img.shields.io/badge/Add%20more%20functionality-Incomplete-red)
