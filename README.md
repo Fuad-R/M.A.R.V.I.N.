@@ -5,7 +5,7 @@ Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man
 
 To-Do list:
 
-![01](https://img.shields.io/badge/Complete%20ToDo%20List-Complete-green)
+![01](https://img.shields.io/badge/Complete%20ToDo%20List-Complete-brightgreen)
 
 ![0](https://img.shields.io/badge/Rethink%20Name-Incomplete-red)
 
