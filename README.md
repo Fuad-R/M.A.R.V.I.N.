@@ -7,7 +7,7 @@ To-Do list:
 
 ![01](https://img.shields.io/badge/Complete%20ToDo%20List-Complete-brightgreen)
 
-![0](https://img.shields.io/badge/Rethink%20Name-Incomplete-red)
+![0](https://img.shields.io/badge/Rethink%20Name-Complete-brightgreen)
 
 ![1](https://img.shields.io/badge/Deploy%20Vosk-Incomplete-red)
 
