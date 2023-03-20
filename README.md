@@ -3,7 +3,7 @@ AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
 Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man
 
-Current status: Waiting on PC to arrive to run Dalai AI model
+**Current status:** Waiting on PC to arrive to run Dalai AI model
 
 
 To-Do list:
