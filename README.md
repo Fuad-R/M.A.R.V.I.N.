@@ -27,3 +27,17 @@ To-Do list:
 ![6](https://img.shields.io/badge/Integrate%20Larynx2-Incomplete-red)
 
 ![6](https://img.shields.io/badge/Add%20more%20functionality-Incomplete-red)
+
+
+#Long term feature plans:
+
+
+-Natural language processing: MARVIN can understand and respond to your commands in plain English, making it easy to use for anyone.
+
+-Task automation: MARVIN can automate a wide range of tasks, such as sending emails, setting reminders, and scheduling appointments.
+
+-Personalization: MARVIN can learn your preferences and adapt to your needs over time, making it a truly personal assistant.
+
+-Smart home integration: MARVIN can control a variety of smart home devices, such as lights, thermostats, and security cameras.
+
+-Entertainment: MARVIN can play music, tell jokes, and even play games with you
