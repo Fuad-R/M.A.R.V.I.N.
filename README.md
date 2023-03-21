@@ -44,12 +44,12 @@ To run MARVIN, you will need:
 # Long term feature plans:
 
 
--Natural language processing: MARVIN can understand and respond to your commands in plain English, making it easy to use for anyone.
+-Natural language processing: M.A.R.V.I.N. can understand and respond to your commands in plain English, making it easy to use for anyone.
 
--Task automation: MARVIN can automate a wide range of tasks, such as sending emails, setting reminders, and scheduling appointments.
+-Task automation: M.A.R.V.I.N. can automate a wide range of tasks, such as sending emails, setting reminders, and scheduling appointments.
 
--Personalization: MARVIN can learn your preferences and adapt to your needs over time, making it a truly personal assistant.
+-Personalization: M.A.R.V.I.N. can learn your preferences and adapt to your needs over time, making it a truly personal assistant.
 
--Smart home integration: MARVIN can control a variety of smart home devices, such as lights, thermostats, and security cameras.
+-Smart home integration: M.A.R.V.I.N. can control a variety of smart home devices, such as lights, thermostats, and security cameras.
 
--Entertainment: MARVIN can play music, tell jokes, and even play games with you
+-Entertainment: M.A.R.V.I.N. can play music, tell jokes, and even play games with you
