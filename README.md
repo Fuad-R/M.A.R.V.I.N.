@@ -8,7 +8,7 @@ Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man
 **Current status:** Waiting on PC to arrive to run Dalai AI model
 
 
-## To-Do list:
+# To-Do list:
 
 ![01](https://img.shields.io/badge/Complete%20ToDo%20List-Complete-brightgreen)
 
