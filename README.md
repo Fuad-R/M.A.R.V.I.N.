@@ -29,7 +29,7 @@ To-Do list:
 ![6](https://img.shields.io/badge/Add%20more%20functionality-Incomplete-red)
 
 
-#Long term feature plans:
+# Long term feature plans:
 
 
 -Natural language processing: MARVIN can understand and respond to your commands in plain English, making it easy to use for anyone.
