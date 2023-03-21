@@ -28,6 +28,15 @@ To-Do list:
 
 ![6](https://img.shields.io/badge/Add%20more%20functionality-Incomplete-red)
 
+# Requirements
+
+To run MARVIN, you will need:
+
+-Python 3.6 or higher
+-Audio input (Microphone)
+-Audio output (Speaker)
+-Between 8 and 16GB of RAM reccomended (8GB for 7 Billion parameter model and 12-16GB for 13 Billion parameter) 
+
 
 # Long term feature plans:
 
