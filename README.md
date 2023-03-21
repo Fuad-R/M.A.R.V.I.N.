@@ -3,7 +3,7 @@
 AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
 
-Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man
+Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man and the name is based off of [Marvin the paranoid android](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android) from the book [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 
 **Current status:** Waiting on PC to arrive to run Dalai AI model
 
