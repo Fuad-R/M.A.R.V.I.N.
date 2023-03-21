@@ -1,7 +1,7 @@
-# M.A.R.V.I.N.
+# M.A.R.V.I.N. - Multifunctional Artificial Reality Virtual Intelligence Network
+
 AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
-"M.A.R.V.I.N." stands for "Multifunctional Artificial Reality Virtual Intelligence Network", purely a symbolic name
 
 Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man
 
