@@ -36,3 +36,4 @@ output = result.stdout.decode("utf-8").strip()
 
 # Output result from Dalai into Larynx2
 subprocess.run(["larynx2", output])
+
