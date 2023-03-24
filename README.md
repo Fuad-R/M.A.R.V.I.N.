@@ -14,17 +14,17 @@ Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man and the name is based of
 
 ![0](https://img.shields.io/badge/Rethink%20Name-Complete-brightgreen)
 
-![1](https://img.shields.io/badge/Deploy%20Vosk-Incomplete-red)
+![1](https://img.shields.io/badge/Deploy%20Vosk-Complete-brightgreen)
 
-![2](https://img.shields.io/badge/Integrate%20Vosk-Incomplete-red)
+![2](https://img.shields.io/badge/Integrate%20Vosk-Complete-brightgreen)
 
 ![3](https://img.shields.io/badge/Deploy%20Dalai-Incomplete-red)
 
 ![4](https://img.shields.io/badge/Integrate%20Dalai-Incomplete-red)
 
-![5](https://img.shields.io/badge/Deploy%20Larynx2-Incomplete-red)
+![5](https://img.shields.io/badge/Deploy%20Larynx2-Complete-brightgreen)
 
-![6](https://img.shields.io/badge/Integrate%20Larynx2-Incomplete-red)
+![6](https://img.shields.io/badge/Integrate%20Larynx2-Complete-brightgreen)
 
 ![6](https://img.shields.io/badge/Add%20more%20functionality-Incomplete-red)
 
