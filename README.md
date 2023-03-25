@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Downloads](https://shields.io/github/downloads/Fuad-R/M.A.R.V.I.N./total)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Fuad-R/M.A.R.V.I.N.?label=Repo%20Size)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![Maintenance](https://img.shields.io/Maintenance/yes/2023)
 
 AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
