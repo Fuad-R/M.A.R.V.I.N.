@@ -1,6 +1,8 @@
 # M.A.R.V.I.N. - Multifunctional Artificial Reality Virtual Intelligence Network
 
-[![CodeFactor](https://www.codefactor.io/repository/github/fuad-r/m.a.r.v.i.n./badge)](https://www.codefactor.io/repository/github/fuad-r/m.a.r.v.i.n.) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CodeFactor](https://www.codefactor.io/repository/github/fuad-r/m.a.r.v.i.n./badge)](https://www.codefactor.io/repository/github/fuad-r/m.a.r.v.i.n.)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](/github/downloads/Fuad-R/M.A.R.V.I.N./total)
 
 AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
