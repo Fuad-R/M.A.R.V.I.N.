@@ -19,7 +19,7 @@ response = openai.Completion.create(
     max_tokens=1024,
     n=1,
     stop=None,
-    temperature=0.5,
+    temperature=0.65,
 )
 
 # Wait for "Hey MARVIN"
@@ -50,7 +50,7 @@ while True:
             max_tokens=1024,
             n=1,
             stop=None,
-            temperature=0.5,
+            temperature=0.65,
         )
         chatbot_output = response.choices[0].text.strip()
         print(chatbot_output)
