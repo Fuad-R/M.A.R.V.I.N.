@@ -58,4 +58,4 @@ while True:
 
 # Output result from OpenAI Chat API into Larynx2
 print(f"Speaking: {chatbot_output}")
-subprocess.run(["larynx2", chatbot_output])
+subprocess.run(["/home/pi/larynx2", chatbot_output])
