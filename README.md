@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Fuad-R/M.A.R.V.I.N.?label=Repo%20Size)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 ![GitHub watchers](https://img.shields.io/github/watchers/Fuad-R/M.A.R.V.I.N.)
-[![Contact](https://img.shields.io/badge/Contact-Email-blueviolet)](.)
+[![Contact](https://img.shields.io/badge/Contact-Email-blueviolet)](mailto:fuadarizik@gmail.com)
 
 AI Voice assistant project powered by Vosk API, OpenAI chat API, and Larynx2
 
