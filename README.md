@@ -5,8 +5,10 @@
 ![Downloads](https://shields.io/github/downloads/Fuad-R/M.A.R.V.I.N./total)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Fuad-R/M.A.R.V.I.N.?label=Repo%20Size)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![GitHub watchers](https://img.shields.io/github/watchers/Fuad-R/M.A.R.V.I.N.?style=plastic)
+[![Contact](https://img.shields.io/badge/Contact-Email-blueviolet)](mailto:fuadarizik@gmail.com)
 
-AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
+AI Voice assistant project powered by Vosk API, OpenAI chat API, and Larynx2
 
 
 Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man and the name is based off of [Marvin the paranoid android](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android) from the book [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
