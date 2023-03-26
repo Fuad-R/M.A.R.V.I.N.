@@ -11,40 +11,21 @@ AI Voice assistant project powered by Vosk API, Dalai, and Larynx2
 
 Inspired by J.A.R.V.I.S. and F.R.I.D.A.Y. from Iron Man and the name is based off of [Marvin the paranoid android](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android) from the book [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 
-**Current status:** Waiting on PC to arrive to run Dalai AI model
-
-
-# To-Do list:
-
-![01](https://img.shields.io/badge/Complete%20ToDo%20List-Complete-brightgreen)
-
-![0](https://img.shields.io/badge/Rethink%20Name-Complete-brightgreen)
-
-![1](https://img.shields.io/badge/Deploy%20Vosk-Complete-brightgreen)
-
-![2](https://img.shields.io/badge/Integrate%20Vosk-Complete-brightgreen)
-
-![3](https://img.shields.io/badge/Deploy%20Dalai-Incomplete-red)
-
-![4](https://img.shields.io/badge/Integrate%20Dalai-Incomplete-red)
-
-![5](https://img.shields.io/badge/Deploy%20Larynx2-Complete-brightgreen)
-
-![6](https://img.shields.io/badge/Integrate%20Larynx2-Complete-brightgreen)
-
-![6](https://img.shields.io/badge/Add%20more%20functionality-Incomplete-red)
-
 # Requirements
 
 To run MARVIN, you will need:
 
--Python 3.6 or higher
+-Python 3.7 or higher
 
 -Audio input (Microphone)
 
 -Audio output (Speaker)
 
--Between 8 and 16GB of RAM reccomended (8GB for 7 Billion parameter model and 12-16GB for 13 Billion parameter) 
+-Between 2GB of RAM
+
+-Device at least as powerful as a Raspberry Pi 4b
+
+-OpenAI API keys
 
 
 # Long term feature plans:
