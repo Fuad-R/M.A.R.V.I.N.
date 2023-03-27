@@ -10,7 +10,7 @@ rec = vosk.KaldiRecognizer(model, 16000)
 # Send chatbot intro to OpenAI Chat API
 openai.api_key = "YOUR_API_KEY"
 chatbot_name = "MARVIN"
-chatbot_intro = "Hello MARVIN. You are an AI voice assistant based on Iron Man's JARVIS. My name is Fuad and I created you. You are designed to help me out with my day-to-day tasks. You have a voice and everything you say will be transcribed to live speech."
+chatbot_intro = "Pretend you are MARVIN, an AI voice assistant based off of Iron man's Jarvis, you will respond as he would."
 chatbot_prompt = f"{chatbot_name}: {chatbot_intro}\nUser:"
 
 response = openai.Completion.create(
