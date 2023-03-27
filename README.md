@@ -23,7 +23,7 @@ To run MARVIN, you will need:
 
 -Audio output (Speaker)
 
--Between 2GB of RAM
+-About 2GB of RAM
 
 -Device at least as powerful as a Raspberry Pi 4b
 
