@@ -19,15 +19,15 @@ To run MARVIN, you will need:
 
 -Python 3.7 or higher
 
--Audio input (Microphone)
+-An audio input (Microphone)
 
--Audio output (Speaker)
+-An audio output (Speaker)
 
 -About 2GB of RAM
 
 -Device at least as powerful as a Raspberry Pi 4b
 
--OpenAI API keys
+-An OpenAI API key
 
 
 # Long term feature plans:
