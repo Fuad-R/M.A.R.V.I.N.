@@ -7,6 +7,8 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 ![GitHub watchers](https://img.shields.io/github/watchers/Fuad-R/M.A.R.V.I.N.)
 [![Contact](https://img.shields.io/badge/Contact-Email-blueviolet)](mailto:fuadarizik@gmail.com)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Fuad-R/M.A.R.V.I.N./badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Fuad-R/M.A.R.V.I.N./?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/Fuad-R/M.A.R.V.I.N./badges/build.png?b=main)](https://scrutinizer-ci.com/g/Fuad-R/M.A.R.V.I.N./build-status/main)
 
 AI Voice assistant project powered by Vosk API, OpenAI chat API, and Larynx2
 
